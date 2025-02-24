@@ -169,3 +169,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+sqljdbc_12.8/
+data/
+*.tmp
+*.log
+*.bak
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+node_modules/
